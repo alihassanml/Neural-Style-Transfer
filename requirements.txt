@@ -1,0 +1,6 @@
+tensorflow
+tensorflow-hub
+pandas
+numpy
+matplotlib
+ 
